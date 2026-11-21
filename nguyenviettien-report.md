@@ -49,9 +49,9 @@ Bạn kiểm lô của tôi: Nguyễn Viết Tiến (tự kiểm)  Quyết đị
 
 ## 6. Ảnh chụp màn hình
 ![alt text](<Screenshot 2026-11-20 212528.png>)
-![alt text](<Screenshot 2026-11-20 212148-1.png>) 
-![alt text](<Screenshot 2026-11-20 212118-1.png>)
-![XML polyline lane](Screenshot-xml-polyline-lane.png)
+![alt text](<Screenshot 2026-11-20 212118.png>)
+![alt text](<Screenshot 2026-11-20 212148.png>)
+![alt text](image.png)
 
 ## 7. Tự đánh giá
 Lỗi bạn mắc nhiều nhất hôm nay (theo mã QC1-xx), và cách tránh ở Ngày 20:
